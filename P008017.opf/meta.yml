@@ -1,50 +1,58 @@
-id: opecha:P008017
+id: P008017
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD107142
   title: གསུང་འབུམ། ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོ
-  volume:
+  author: ''
+  volumes:
     7800801536a548c3ab7dc43c6fa48f79:
       image_group_id: I1PD107144
       title: Volume 1 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 1
       total_pages: 582
+      base_file: v001.txt
     f155946ff19e4f27a2ea4abc771634da:
       image_group_id: I1PD107145
       title: Volume 2 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 2
       total_pages: 580
+      base_file: v002.txt
     d4c0a62fbc014b9e99f721c63b09742d:
       image_group_id: I1PD107146
       title: Volume 3 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 3
       total_pages: 382
+      base_file: v003.txt
     ecd71b873f5949bd8334c03c91511537:
       image_group_id: I1PD107147
       title: Volume 4 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 4
       total_pages: 562
+      base_file: v004.txt
     90608969c97e4434b1d9fde4506e8bc9:
       image_group_id: I1PD107148
       title: Volume 5 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 5
       total_pages: 630
+      base_file: v005.txt
     4051f496549f4eca8987e8a8bce88ab7:
       image_group_id: I1PD107149
       title: Volume 6 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 6
       total_pages: 494
+      base_file: v006.txt
     d8370b1ff9f24365aff1e318b3772938:
       image_group_id: I1PD107150
       title: Volume 7 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 7
       total_pages: 612
+      base_file: v007.txt
     22ebec1abe3646fc9771c391a40f39ea:
       image_group_id: I1PD107151
       title: Volume 8 of gsung 'bum/_o rgyan 'jigs med chos kyi dbang po
       volume_number: 8
       total_pages: 576
-  author: ''
+      base_file: v008.txt
 ebook_metadata:
   title: གསུང་འབུམ། ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོ
   author: ''
